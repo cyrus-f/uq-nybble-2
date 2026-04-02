@@ -1,0 +1,3576 @@
+{
+  "selectedUniversityId": "12",
+  "society_event_types": [
+    "Ball/Dinner/Gala",
+    "Class/Workshop",
+    "Industry/Career",
+    "Other",
+    "Party/BBQ/Social",
+    "Quiz/Trivia",
+    "Trip/Camp"
+  ],
+  "showRatingsReviews": false,
+  "selectedEventsPeriodFilter": "All",
+  "unionEvents": [],
+  "countries": [
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Australian Capital Territory",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "New South Wales",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Northern Territory",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Queensland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "South Australia",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Tasmania",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Victoria",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "AU",
+      "country": "Australia",
+      "state": "Western Australia",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Alberta",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "British Columbia",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Manitoba",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "New Brunswick",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Newfoundland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Nova Scotia",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Ontario",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Prince Edward Island",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Quebec",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Saskatchewan",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "CA",
+      "country": "Canada",
+      "state": "Yukon",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "East Midlands",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Eastern",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Greater London",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "North East",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "North West",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Northern Ireland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Scotland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "South East",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "South West",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Wales",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "West Midlands",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "state": "Yorkshire and Humberside",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+    },
+    {
+      "country_code": "IE",
+      "country": "Ireland",
+      "state": "Leinster",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/eu.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Auckland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Canterbury",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Manawatu-Whanganui",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Otago",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Waikato",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "NZ",
+      "country": "New Zealand",
+      "state": "Wellington",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "California",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Hawaii",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Illinois",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Maryland",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Minneapolis",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "New Hampshire",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "New Mexico",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Texas",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Virginia",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    },
+    {
+      "country_code": "US",
+      "country": "United States",
+      "state": "Wisconsin",
+      "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+    }
+  ],
+  "totalItemCount": 42,
+  "sortDirection": "asc",
+  "society_club_types": [
+    "Faculty - BEL",
+    "Faculty - EAIT",
+    "Faculty - HASS",
+    "Faculty - HMBS",
+    "Faculty - Science",
+    "Gatton Based",
+    "Herston Based",
+    "Hobby",
+    "Hobby/ Interest",
+    "International",
+    "Performance",
+    "Political",
+    "Religious",
+    "Social Justice",
+    "Sporting"
+  ],
+  "universities": [
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/65d41d21e6905_.png",
+      "name": "Australian National University",
+      "id": 1,
+      "state": "Australian Capital Territory",
+      "shortname": "ANU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/28.jpg",
+      "name": "University of Canberra",
+      "id": 28,
+      "state": "Australian Capital Territory",
+      "shortname": "UCX"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/30.jpg",
+      "name": "Australian Catholic University",
+      "id": 30,
+      "state": "New South Wales",
+      "shortname": "ACU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/5.jpg",
+      "name": "University of New South Wales",
+      "id": 5,
+      "state": "New South Wales",
+      "shortname": "Arc @ UNSW"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/34.jpg",
+      "name": "Charles Sturt University",
+      "id": 34,
+      "state": "New South Wales",
+      "shortname": "CSU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/07df4140ff8a75b55b6d0b85d27df749.png",
+      "name": "Kings Own Institute",
+      "id": 539,
+      "state": "New South Wales",
+      "shortname": "KOI"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/6.jpg",
+      "name": "Macquarie University",
+      "id": 6,
+      "state": "New South Wales",
+      "shortname": "Macquarie"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/31.jpg",
+      "name": "National Institute of Dramatic Art",
+      "id": 31,
+      "state": "New South Wales",
+      "shortname": "NIDA"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/27.jpg",
+      "name": "University of Notre Dame (Sydney)",
+      "id": 27,
+      "state": "New South Wales",
+      "shortname": "Notre Dame Sydney"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/9.jpg",
+      "name": "NUsport (Newcastle Uni)",
+      "id": 536,
+      "state": "New South Wales",
+      "shortname": "NUsport"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/39.jpg",
+      "name": "Southern Cross University",
+      "id": 39,
+      "state": "New South Wales",
+      "shortname": "SCU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/505.jpg",
+      "name": "Torrens University Australia",
+      "id": 505,
+      "state": "New South Wales",
+      "shortname": "TUA"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/11.jpg",
+      "name": "University of New England",
+      "id": 11,
+      "state": "New South Wales",
+      "shortname": "UNE"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/e7a28344-688f-4afd-8673-0ceb2976fa2e.png",
+      "name": "University of Newcastle",
+      "id": 9,
+      "state": "New South Wales",
+      "shortname": "UNSA"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/10.jpg",
+      "name": "University of Wollongong",
+      "id": 10,
+      "state": "New South Wales",
+      "shortname": "UOW"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/4.jpg",
+      "name": "University of Sydney",
+      "id": 4,
+      "state": "New South Wales",
+      "shortname": "USYD"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/7.jpg",
+      "name": "University of Technology Sydney",
+      "id": 7,
+      "state": "New South Wales",
+      "shortname": "UTS"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/8.jpg",
+      "name": "Western Sydney University",
+      "id": 8,
+      "state": "New South Wales",
+      "shortname": "UWS"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/33.jpg",
+      "name": "Charles Darwin University",
+      "id": 33,
+      "state": "Northern Territory",
+      "shortname": "CDU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/3.jpg",
+      "name": "Bond University",
+      "id": 3,
+      "state": "Queensland",
+      "shortname": "Bond"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/32.jpg",
+      "name": "Central Queensland University",
+      "id": 32,
+      "state": "Queensland",
+      "shortname": "CQU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/13.jpg",
+      "name": "Griffith University",
+      "id": 13,
+      "state": "Queensland",
+      "shortname": "Griffith"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/37.jpg",
+      "name": "James Cook University",
+      "id": 37,
+      "state": "Queensland",
+      "shortname": "JCU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://portal.hellorubric.com/assets/revolvapp/uploaded/1cc34146dc583ea244b3a105f35904e1.png",
+      "name": "Queensland University of Technology",
+      "id": 14,
+      "state": "Queensland",
+      "shortname": "QUT"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/2d86d979-6a89-4509-b02d-65f6383d3b8d.jpg",
+      "name": "University of Southern Queensland",
+      "id": 42,
+      "state": "Queensland",
+      "shortname": "UniSQ"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/12a.jpg",
+      "name": "University of Queensland",
+      "id": 12,
+      "state": "Queensland",
+      "shortname": "UQU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/2.jpg",
+      "name": "University of the Sunshine Coast",
+      "id": 2,
+      "state": "Queensland",
+      "shortname": "USC"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/22.jpg",
+      "name": "University of Adelaide",
+      "id": 22,
+      "state": "South Australia",
+      "shortname": "Adelaide Uni"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/a5a75d8e-897f-482e-a701-01711c7fcc8e.png",
+      "name": "Flinders University",
+      "id": 23,
+      "state": "South Australia",
+      "shortname": "Flinders"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/41.jpg",
+      "name": "University of South Australia",
+      "id": 41,
+      "state": "South Australia",
+      "shortname": "UniSA"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/tusauni.jpg",
+      "name": "University of Tasmania",
+      "id": 24,
+      "state": "Tasmania",
+      "shortname": "UTAS"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/c78de23a-8194-4136-82fb-f4426940c36b.png",
+      "name": "Deakin University",
+      "id": 19,
+      "state": "Victoria",
+      "shortname": "Deakin"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/40.jpg",
+      "name": "Federation University Australia",
+      "id": 40,
+      "state": "Victoria",
+      "shortname": "Federation"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/18.jpg",
+      "name": "La Trobe University",
+      "id": 18,
+      "state": "Victoria",
+      "shortname": "La Trobe"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/16.jpg",
+      "name": "Monash University",
+      "id": 16,
+      "state": "Victoria",
+      "shortname": "Monash"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/d172084212161f59931bf533c60f9e5a.png",
+      "name": "RMIT University",
+      "id": 17,
+      "state": "Victoria",
+      "shortname": "RMIT"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/771cb9ca-f19a-443c-bbcb-d3014de1e727.png",
+      "name": "Swinburne University",
+      "id": 20,
+      "state": "Victoria",
+      "shortname": "Swinburne"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/15.jpg",
+      "name": "University of Melbourne",
+      "id": 15,
+      "state": "Victoria",
+      "shortname": "UniMelb"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/21.jpg",
+      "name": "Victoria University",
+      "id": 21,
+      "state": "Victoria",
+      "shortname": "VU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/25.jpg",
+      "name": "Curtin University",
+      "id": 25,
+      "state": "Western Australia",
+      "shortname": "Curtin"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/35.jpg",
+      "name": "Edith Cowan University",
+      "id": 35,
+      "state": "Western Australia",
+      "shortname": "ECU"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/38_murdoch.jpg",
+      "name": "Murdoch University",
+      "id": 38,
+      "state": "Western Australia",
+      "shortname": "Murdoch"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/27.jpg",
+      "name": "University of Notre Dame (Fremantle)",
+      "id": 504,
+      "state": "Western Australia",
+      "shortname": "Notre Dame Fremantle"
+    },
+    {
+      "country": "AU",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/26.jpg",
+      "name": "University of Western Australia",
+      "id": 26,
+      "state": "Western Australia",
+      "shortname": "UWA"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/223.jpg",
+      "name": "Alberta University of the Arts",
+      "id": 223,
+      "state": "Alberta",
+      "shortname": "AlbertaArts"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/225.jpg",
+      "name": "Ambrose University",
+      "id": 225,
+      "state": "Alberta",
+      "shortname": "Ambrose"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/226.jpg",
+      "name": "Athabasca University",
+      "id": 226,
+      "state": "Alberta",
+      "shortname": "Athabasca"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/230.jpg",
+      "name": "Burman University",
+      "id": 230,
+      "state": "Alberta",
+      "shortname": "Burman U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/234.jpg",
+      "name": "Concordia University of Edmonton",
+      "id": 234,
+      "state": "Alberta",
+      "shortname": "CUE"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/242.jpg",
+      "name": "MacEwan University",
+      "id": 242,
+      "state": "Alberta",
+      "shortname": "MacEwan"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/220.jpg",
+      "name": "Mount Royal University",
+      "id": 220,
+      "state": "Alberta",
+      "shortname": "MRU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://www.nait.ca/App_Themes/NAIT.caStyles/img/nait-logo-inverted-web.svg",
+      "name": "Northern Alberta Institute of Technology",
+      "id": 516,
+      "state": "Alberta",
+      "shortname": "NAIT"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/443bbd7443bb2e7792e723d064ad31ea.jpg",
+      "name": "Southern Alberta Institute of Technology",
+      "id": 507,
+      "state": "Alberta",
+      "shortname": "Saitsa"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/255.jpg",
+      "name": "St. Mary's University, Calgary",
+      "id": 255,
+      "state": "Alberta",
+      "shortname": "STMU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/258.jpg",
+      "name": "The King's University",
+      "id": 258,
+      "state": "Alberta",
+      "shortname": "TKU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/189.jpg",
+      "name": "University of Alberta",
+      "id": 189,
+      "state": "Alberta",
+      "shortname": "UAlberta"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/191.jpg",
+      "name": "University of Calgary",
+      "id": 191,
+      "state": "Alberta",
+      "shortname": "UCalgary"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/213.jpg",
+      "name": "University of Lethbridge",
+      "id": 213,
+      "state": "Alberta",
+      "shortname": "ULethbridge"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/501.jpg",
+      "name": "Camosun College",
+      "id": 501,
+      "state": "British Columbia",
+      "shortname": "Camosun"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/233.jpg",
+      "name": "Capilano University",
+      "id": 233,
+      "state": "British Columbia",
+      "shortname": "Capilano U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "College of New Caledonia",
+      "id": 518,
+      "state": "British Columbia",
+      "shortname": "CNC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Douglas College",
+      "id": 519,
+      "state": "British Columbia",
+      "shortname": "Douglas College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/238.jpg",
+      "name": "Emily Carr University of Art and Design",
+      "id": 238,
+      "state": "British Columbia",
+      "shortname": "ECUAD"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/214.jpg",
+      "name": "Kwantlen Polytechnic University",
+      "id": 214,
+      "state": "British Columbia",
+      "shortname": "KPU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/247.jpg",
+      "name": "Pacific Coast University for Workplace Health Sciences",
+      "id": 247,
+      "state": "British Columbia",
+      "shortname": "PCUWHS"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/249.jpg",
+      "name": "Quest University",
+      "id": 249,
+      "state": "British Columbia",
+      "shortname": "Quest U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/252.jpg",
+      "name": "Royal Roads University",
+      "id": 252,
+      "state": "British Columbia",
+      "shortname": "RRU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/197.jpg",
+      "name": "Simon Fraser University",
+      "id": 197,
+      "state": "British Columbia",
+      "shortname": "SFU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/185.jpg",
+      "name": "University of British Columbia Okanagan",
+      "id": 512,
+      "state": "British Columbia",
+      "shortname": "SUO of UBC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/259.jpg",
+      "name": "Thompson Rivers University",
+      "id": 259,
+      "state": "British Columbia",
+      "shortname": "TRU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/261.jpg",
+      "name": "Trinity Western University",
+      "id": 261,
+      "state": "British Columbia",
+      "shortname": "TWU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/185.jpg",
+      "name": "University of British Columbia",
+      "id": 185,
+      "state": "British Columbia",
+      "shortname": "UBC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/272.jpg",
+      "name": "University Canada West",
+      "id": 272,
+      "state": "British Columbia",
+      "shortname": "UCW"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/e00085a47b1d0093defbdbcb75bb55b0.png",
+      "name": "University of the Fraser Valley",
+      "id": 277,
+      "state": "British Columbia",
+      "shortname": "UFV"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/211.jpg",
+      "name": "University of Northern British Columbia",
+      "id": 211,
+      "state": "British Columbia",
+      "shortname": "UNBC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/199.jpg",
+      "name": "University of Victoria",
+      "id": 199,
+      "state": "British Columbia",
+      "shortname": "UVic"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/279.jpg",
+      "name": "Vancouver Island University",
+      "id": 279,
+      "state": "British Columbia",
+      "shortname": "VIU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/281.jpg",
+      "name": "Yorkville University",
+      "id": 281,
+      "state": "British Columbia",
+      "shortname": "Yorkville U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/221.jpg",
+      "name": "Brandon University",
+      "id": 221,
+      "state": "Manitoba",
+      "shortname": "Brandon Uni"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/228.jpg",
+      "name": "Booth University College",
+      "id": 228,
+      "state": "Manitoba",
+      "shortname": "BUC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/231.jpg",
+      "name": "Canadian Mennonite University",
+      "id": 231,
+      "state": "Manitoba",
+      "shortname": "CMU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/248.jpg",
+      "name": "Providence University College and Theological Seminary",
+      "id": 248,
+      "state": "Manitoba",
+      "shortname": "Providence"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/273.jpg",
+      "name": "University College of the North",
+      "id": 273,
+      "state": "Manitoba",
+      "shortname": "UCN"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/7512dcc14858f76ddb0a8173ca17f62b.jpg",
+      "name": "University of Manitoba",
+      "id": 198,
+      "state": "Manitoba",
+      "shortname": "UManitoba"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/278.jpg",
+      "name": "University of Winnipeg",
+      "id": 278,
+      "state": "Manitoba",
+      "shortname": "UWinnipeg"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/235.jpg",
+      "name": "Crandall University",
+      "id": 235,
+      "state": "New Brunswick",
+      "shortname": "Crandall U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/240.jpg",
+      "name": "Kingswood University",
+      "id": 240,
+      "state": "New Brunswick",
+      "shortname": "Kingswood"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/243.jpg",
+      "name": "Mount Allison University",
+      "id": 243,
+      "state": "New Brunswick",
+      "shortname": "MTA"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/256.jpg",
+      "name": "St. Stephen's University",
+      "id": 256,
+      "state": "New Brunswick",
+      "shortname": "SSU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/257.jpg",
+      "name": "St. Thomas University",
+      "id": 257,
+      "state": "New Brunswick",
+      "shortname": "STU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/274.jpg",
+      "name": "University of Fredericton",
+      "id": 274,
+      "state": "New Brunswick",
+      "shortname": "UFred"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/264.jpg",
+      "name": "Université de Moncton",
+      "id": 264,
+      "state": "New Brunswick",
+      "shortname": "UMoncton"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/210.jpg",
+      "name": "University of New Brunswick",
+      "id": 210,
+      "state": "New Brunswick",
+      "shortname": "UNB"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/204.jpg",
+      "name": "Memorial University of Newfoundland",
+      "id": 204,
+      "state": "Newfoundland",
+      "shortname": "MUN"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/222.jpg",
+      "name": "Acadia University",
+      "id": 222,
+      "state": "Nova Scotia",
+      "shortname": "AcadiaU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/232.jpg",
+      "name": "Cape Breton University",
+      "id": 232,
+      "state": "Nova Scotia",
+      "shortname": "CBU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/194.jpg",
+      "name": "Dalhousie University",
+      "id": 194,
+      "state": "Nova Scotia",
+      "shortname": "Dal"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/218.jpg",
+      "name": "Mount Saint Vincent University",
+      "id": 218,
+      "state": "Nova Scotia",
+      "shortname": "MSVU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/244.jpg",
+      "name": "Nova Scotia College of Art and Design University",
+      "id": 244,
+      "state": "Nova Scotia",
+      "shortname": "NSCAD"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/254.jpg",
+      "name": "Saint Mary's University",
+      "id": 254,
+      "state": "Nova Scotia",
+      "shortname": "SMU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/253.jpg",
+      "name": "Saint Francis Xavier University",
+      "id": 253,
+      "state": "Nova Scotia",
+      "shortname": "STFX"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/275.jpg",
+      "name": "University of King's College",
+      "id": 275,
+      "state": "Nova Scotia",
+      "shortname": "UKings"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/271.jpg",
+      "name": "Université Sainte-Anne",
+      "id": 271,
+      "state": "Nova Scotia",
+      "shortname": "USainteAnne"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/224.jpg",
+      "name": "Algoma University",
+      "id": 224,
+      "state": "Ontario",
+      "shortname": "Algoma U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Algonquin College",
+      "id": 514,
+      "state": "Ontario",
+      "shortname": "Algonquin College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/229.jpg",
+      "name": "Brock University",
+      "id": 229,
+      "state": "Ontario",
+      "shortname": "BrockU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/202.jpg",
+      "name": "Carleton University",
+      "id": 202,
+      "state": "Ontario",
+      "shortname": "Carleton"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/712a13a381a5f9bfb366d894c3dfc270.jpeg",
+      "name": "Centennial College",
+      "id": 509,
+      "state": "Ontario",
+      "shortname": "Centennial College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Conestoga College",
+      "id": 515,
+      "state": "Ontario",
+      "shortname": "Conestoga College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Durham College",
+      "id": 524,
+      "state": "Ontario",
+      "shortname": "Durham College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/463925cb-34e8-4392-ac39-fd9ac160bf72.png",
+      "name": "Eastern University",
+      "id": 193,
+      "state": "Ontario",
+      "shortname": "Eastern"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/7f2dd453ac1387273302aca7f7cba8be.png",
+      "name": "George Brown College",
+      "id": 511,
+      "state": "Ontario",
+      "shortname": "GBC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Georgian College",
+      "id": 520,
+      "state": "Ontario",
+      "shortname": "Georgian College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Humber College",
+      "id": 522,
+      "state": "Ontario",
+      "shortname": "Humber College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/216.jpg",
+      "name": "Huron University",
+      "id": 216,
+      "state": "Ontario",
+      "shortname": "Huron"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "King's University College",
+      "id": 513,
+      "state": "Ontario",
+      "shortname": "KUC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/206.jpg",
+      "name": "Lakehead University",
+      "id": 206,
+      "state": "Ontario",
+      "shortname": "Lakehead U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/241.jpg",
+      "name": "Laurentian University",
+      "id": 241,
+      "state": "Ontario",
+      "shortname": "Laurentian"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/280.jpg",
+      "name": "Wilfrid Laurier University",
+      "id": 280,
+      "state": "Ontario",
+      "shortname": "Laurier"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/187.jpg",
+      "name": "McMaster University",
+      "id": 187,
+      "state": "Ontario",
+      "shortname": "McMaster"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/219.jpg",
+      "name": "Nipissing University",
+      "id": 219,
+      "state": "Ontario",
+      "shortname": "Nipissing Uni"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/245.jpg",
+      "name": "Ontario College of Art and Design University",
+      "id": 245,
+      "state": "Ontario",
+      "shortname": "OCAD"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/4af469c8-9b79-4823-b5e2-5acc5852eca1.jpg",
+      "name": "Ontario Tech University",
+      "id": 246,
+      "state": "Ontario",
+      "shortname": "Ontario Tech"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/196.jpg",
+      "name": "Queen's University at Kingston",
+      "id": 196,
+      "state": "Ontario",
+      "shortname": "Queens"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/250.jpg",
+      "name": "Redeemer University College",
+      "id": 250,
+      "state": "Ontario",
+      "shortname": "Redeemer"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/251.jpg",
+      "name": "Royal Military College of Canada",
+      "id": 251,
+      "state": "Ontario",
+      "shortname": "RMC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Seneca College",
+      "id": 517,
+      "state": "Ontario",
+      "shortname": "Seneca College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/b46332c375b14ecf68b17e9461b565af.jpg",
+      "name": "Sheridan College",
+      "id": 506,
+      "state": "Ontario",
+      "shortname": "Sheridan"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/528604c05f79f8e3494a648784310071.png",
+      "name": "St Clair College",
+      "id": 510,
+      "state": "Ontario",
+      "shortname": "St Clair College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/992f5dd238cb28061ee643adc3c5bfae.png",
+      "name": "St Lawrence College",
+      "id": 508,
+      "state": "Ontario",
+      "shortname": "St Lawrence College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/208.jpg",
+      "name": "Toronto Metropolitan University",
+      "id": 208,
+      "state": "Ontario",
+      "shortname": "TMU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/260.jpg",
+      "name": "Trent University",
+      "id": 260,
+      "state": "Ontario",
+      "shortname": "Trent U"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/262.jpg",
+      "name": "Tyndale University",
+      "id": 262,
+      "state": "Ontario",
+      "shortname": "Tyndale"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/203.jpg",
+      "name": "University of Guelph",
+      "id": 203,
+      "state": "Ontario",
+      "shortname": "U of G"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/263.jpg",
+      "name": "Université de l'Ontario français",
+      "id": 263,
+      "state": "Ontario",
+      "shortname": "UOF"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/190.jpg",
+      "name": "University of Ottawa",
+      "id": 190,
+      "state": "Ontario",
+      "shortname": "UOttawa"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/184.jpg",
+      "name": "University of Toronto",
+      "id": 184,
+      "state": "Ontario",
+      "shortname": "UToronto"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/192.jpg",
+      "name": "University of Waterloo",
+      "id": 192,
+      "state": "Ontario",
+      "shortname": "UWaterloo"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/209.jpg",
+      "name": "University of Windsor",
+      "id": 209,
+      "state": "Ontario",
+      "shortname": "UWindsor"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Victoria University",
+      "id": 523,
+      "state": "Ontario",
+      "shortname": "Victoria University"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/cedcb039-24cb-48b0-a377-faafdb7473c7.png",
+      "name": "Western University CA",
+      "id": 542,
+      "state": "Ontario",
+      "shortname": "Western"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/201.jpg",
+      "name": "York University",
+      "id": 201,
+      "state": "Ontario",
+      "shortname": "YorkU"
+    },
+    {
+      "country": "CA",
+      "logo_url": "",
+      "name": "Holland College",
+      "id": 521,
+      "state": "Prince Edward Island",
+      "shortname": "Holland College"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/276.jpg",
+      "name": "University of Prince Edward Island",
+      "id": 276,
+      "state": "Prince Edward Island",
+      "shortname": "UPEI"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/205.jpg",
+      "name": "Concordia University",
+      "id": 205,
+      "state": "Quebec",
+      "shortname": "Concordia"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/237.jpg",
+      "name": "École nationale d'administration publique",
+      "id": 237,
+      "state": "Quebec",
+      "shortname": "ENAP"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/236.jpg",
+      "name": "École de technologie supérieure",
+      "id": 236,
+      "state": "Quebec",
+      "shortname": "ETS"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/239.jpg",
+      "name": "Institut national de la recherche scientifique",
+      "id": 239,
+      "state": "Quebec",
+      "shortname": "INRS"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/186.jpg",
+      "name": "McGill University",
+      "id": 186,
+      "state": "Quebec",
+      "shortname": "McGill"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/227.jpg",
+      "name": "Bishop's University",
+      "id": 227,
+      "state": "Quebec",
+      "shortname": "UBishops"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/188.jpg",
+      "name": "Université de Montréal",
+      "id": 188,
+      "state": "Quebec",
+      "shortname": "UDEM"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/265.jpg",
+      "name": "Université de Sherbrooke",
+      "id": 265,
+      "state": "Quebec",
+      "shortname": "UDES"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/195.jpg",
+      "name": "Université Laval",
+      "id": 195,
+      "state": "Quebec",
+      "shortname": "ULaval"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/207.jpg",
+      "name": "Université du Québec à Chicoutimi",
+      "id": 207,
+      "state": "Quebec",
+      "shortname": "UQAC"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/266.jpg",
+      "name": "Université du Québec à Montréal",
+      "id": 266,
+      "state": "Quebec",
+      "shortname": "UQAM"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/267.jpg",
+      "name": "Université du Québec à Rimouski",
+      "id": 267,
+      "state": "Quebec",
+      "shortname": "UQAR"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/269.jpg",
+      "name": "Université du Québec en Abitibi-Témiscamingue",
+      "id": 269,
+      "state": "Quebec",
+      "shortname": "UQAT"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/270.jpg",
+      "name": "Université du Québec en Outaouais",
+      "id": 270,
+      "state": "Quebec",
+      "shortname": "UQO"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/268.jpg",
+      "name": "Université du Québec à Trois-Rivières",
+      "id": 268,
+      "state": "Quebec",
+      "shortname": "UQTR"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/212.jpg",
+      "name": "University of Regina",
+      "id": 212,
+      "state": "Saskatchewan",
+      "shortname": "URegina"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/200.jpg",
+      "name": "University of Saskatchewan",
+      "id": 200,
+      "state": "Saskatchewan",
+      "shortname": "USask"
+    },
+    {
+      "country": "CA",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/282.jpg",
+      "name": "Yukon University",
+      "id": 282,
+      "state": "Yukon",
+      "shortname": "Yukon U"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Bishop Grosseteste University",
+      "id": 297,
+      "state": "East Midlands",
+      "shortname": "BGU"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/75.jpg",
+      "name": "De Montfort University",
+      "id": 75,
+      "state": "East Midlands",
+      "shortname": "De Mont"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/97.jpg",
+      "name": "University of Derby",
+      "id": 97,
+      "state": "East Midlands",
+      "shortname": "Derby"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/107.jpg",
+      "name": "University of Leicester",
+      "id": 107,
+      "state": "East Midlands",
+      "shortname": "Leic"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/108.jpg",
+      "name": "University of Lincoln",
+      "id": 108,
+      "state": "East Midlands",
+      "shortname": "Linc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/101.jpg",
+      "name": "Loughborough University",
+      "id": 101,
+      "state": "East Midlands",
+      "shortname": "Lough"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/115.jpg",
+      "name": "University of Northampton",
+      "id": 115,
+      "state": "East Midlands",
+      "shortname": "N'ton"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/46.jpg",
+      "name": "University of Nottingham",
+      "id": 46,
+      "state": "East Midlands",
+      "shortname": "Nott"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/49.jpg",
+      "name": "Nottingham Trent University",
+      "id": 49,
+      "state": "East Midlands",
+      "shortname": "Nott Trent"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/73.jpg",
+      "name": "Anglia Ruskin University",
+      "id": 73,
+      "state": "Eastern",
+      "shortname": "Ang Rus"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/110.jpg",
+      "name": "University of Bedfordshire",
+      "id": 110,
+      "state": "Eastern",
+      "shortname": "Bedf"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/103.jpg",
+      "name": "University of Cambridge",
+      "id": 103,
+      "state": "Eastern",
+      "shortname": "Cambridge"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Cranfield University",
+      "id": 294,
+      "state": "Eastern",
+      "shortname": "Cranfield"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/106.jpg",
+      "name": "University of East Anglia",
+      "id": 106,
+      "state": "Eastern",
+      "shortname": "East Anglia"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/114.jpg",
+      "name": "University of Essex",
+      "id": 114,
+      "state": "Eastern",
+      "shortname": "Essex"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/64.jpg",
+      "name": "University of Hertfordshire",
+      "id": 64,
+      "state": "Eastern",
+      "shortname": "Herts"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Norwich University of the Arts",
+      "id": 293,
+      "state": "Eastern",
+      "shortname": "NUA"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/157.jpg",
+      "name": "University of Suffolk",
+      "id": 157,
+      "state": "Eastern",
+      "shortname": "Suffolk"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/88.jpg",
+      "name": "University of the Arts London",
+      "id": 88,
+      "state": "Greater London",
+      "shortname": "Arts Lond"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/136.jpg",
+      "name": "Birkbeck, University of London",
+      "id": 136,
+      "state": "Greater London",
+      "shortname": "Birkbeck"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "BPP University",
+      "id": 300,
+      "state": "Greater London",
+      "shortname": "BPP"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/124.jpg",
+      "name": "Brunel University London",
+      "id": 124,
+      "state": "Greater London",
+      "shortname": "Brun"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/283.jpg",
+      "name": "City, University of London",
+      "id": 283,
+      "state": "Greater London",
+      "shortname": "City"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/150.jpg",
+      "name": "Goldsmiths, University of London",
+      "id": 150,
+      "state": "Greater London",
+      "shortname": "Goldsmiths"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/80.jpg",
+      "name": "University of Greenwich",
+      "id": 80,
+      "state": "Greater London",
+      "shortname": "Greenw"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/287.jpg",
+      "name": "Institute of Cancer Research",
+      "id": 287,
+      "state": "Greater London",
+      "shortname": "ICR"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/127.jpg",
+      "name": "Imperial College London",
+      "id": 127,
+      "state": "Greater London",
+      "shortname": "Imp Lond"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/69.jpg",
+      "name": "King's College London",
+      "id": 69,
+      "state": "Greater London",
+      "shortname": "KCL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/79.jpg",
+      "name": "Kingston University",
+      "id": 79,
+      "state": "Greater London",
+      "shortname": "Kingston"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/175.jpg",
+      "name": "London Business School",
+      "id": 175,
+      "state": "Greater London",
+      "shortname": "LBS"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/125.jpg",
+      "name": "University of London",
+      "id": 125,
+      "state": "Greater London",
+      "shortname": "Lond"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/123.jpg",
+      "name": "London Metropolitan University",
+      "id": 123,
+      "state": "Greater London",
+      "shortname": "Lond Met"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/102.jpg",
+      "name": "London South Bank University",
+      "id": 102,
+      "state": "Greater London",
+      "shortname": "Lond SB"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/155.jpg",
+      "name": "London School of Economics",
+      "id": 155,
+      "state": "Greater London",
+      "shortname": "LSE"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/288.jpg",
+      "name": "London School of Hygiene & Tropical Medicine",
+      "id": 288,
+      "state": "Greater London",
+      "shortname": "LSHTM"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/91.jpg",
+      "name": "Middlesex University",
+      "id": 91,
+      "state": "Greater London",
+      "shortname": "Middx"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/172.jpg",
+      "name": "Queen Mary University of London",
+      "id": 172,
+      "state": "Greater London",
+      "shortname": "QMUL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/289.jpg",
+      "name": "Royal Academy of Music",
+      "id": 289,
+      "state": "Greater London",
+      "shortname": "RAM"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/169.jpg",
+      "name": "Ravensbourne University London",
+      "id": 169,
+      "state": "Greater London",
+      "shortname": "Ravensbourne"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/290.jpg",
+      "name": "Royal Central School of Speech and Drama",
+      "id": 290,
+      "state": "Greater London",
+      "shortname": "RCSSD"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/142.jpg",
+      "name": "Royal Holloway, University of London",
+      "id": 142,
+      "state": "Greater London",
+      "shortname": "RHUL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/144.jpg",
+      "name": "Roehampton University",
+      "id": 144,
+      "state": "Greater London",
+      "shortname": "Roehampton"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/291.jpg",
+      "name": "Royal Veterinary College",
+      "id": 291,
+      "state": "Greater London",
+      "shortname": "RVC"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/153.jpg",
+      "name": "St George's, University of London",
+      "id": 153,
+      "state": "Greater London",
+      "shortname": "SGUL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/165.jpg",
+      "name": "SOAS, University of London",
+      "id": 165,
+      "state": "Greater London",
+      "shortname": "SOAS"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/161.jpg",
+      "name": "St Mary's University Twickenham",
+      "id": 161,
+      "state": "Greater London",
+      "shortname": "St Mary's"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/285.jpg",
+      "name": "The Courtauld Institute of Art",
+      "id": 285,
+      "state": "Greater London",
+      "shortname": "The Courtauld"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/68.jpg",
+      "name": "University College London",
+      "id": 68,
+      "state": "Greater London",
+      "shortname": "UCL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/119.jpg",
+      "name": "University of East London",
+      "id": 119,
+      "state": "Greater London",
+      "shortname": "UEL"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/129.jpg",
+      "name": "University of West London",
+      "id": 129,
+      "state": "Greater London",
+      "shortname": "West London"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/81.jpg",
+      "name": "University of Westminster",
+      "id": 81,
+      "state": "Greater London",
+      "shortname": "Westmin"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/98.jpg",
+      "name": "University of Durham",
+      "id": 98,
+      "state": "North East",
+      "shortname": "Durham"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/50.jpg",
+      "name": "Northumbria University",
+      "id": 50,
+      "state": "North East",
+      "shortname": "N'ria"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/70.jpg",
+      "name": "Newcastle University",
+      "id": 70,
+      "state": "North East",
+      "shortname": "Newc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/116.jpg",
+      "name": "University of Sunderland",
+      "id": 116,
+      "state": "North East",
+      "shortname": "Sund"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/78.jpg",
+      "name": "Teesside University",
+      "id": 78,
+      "state": "North East",
+      "shortname": "Teesside"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/152.jpg",
+      "name": "University of Bolton",
+      "id": 152,
+      "state": "North West",
+      "shortname": "Bolton"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/113.jpg",
+      "name": "University of Chester",
+      "id": 540,
+      "state": "North West",
+      "shortname": "Chester"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/145.jpg",
+      "name": "University of Cumbria",
+      "id": 145,
+      "state": "North West",
+      "shortname": "Cumbria"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/105.jpg",
+      "name": "Edge Hill University",
+      "id": 105,
+      "state": "North West",
+      "shortname": "Edge Hill"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/126.jpg",
+      "name": "Lancaster University",
+      "id": 126,
+      "state": "North West",
+      "shortname": "Lancaster"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/61.jpg",
+      "name": "University of Liverpool",
+      "id": 61,
+      "state": "North West",
+      "shortname": "Liv"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/162.jpg",
+      "name": "Liverpool Hope University",
+      "id": 162,
+      "state": "North West",
+      "shortname": "Liv Hope"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/67.jpg",
+      "name": "Liverpool John Moores University",
+      "id": 67,
+      "state": "North West",
+      "shortname": "LJMU"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "University of Manchester",
+      "id": 43,
+      "state": "North West",
+      "shortname": "Manc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/44.jpg",
+      "name": "Manchester Metropolitan University",
+      "id": 44,
+      "state": "North West",
+      "shortname": "Manc Met"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/82.jpg",
+      "name": "University of Salford",
+      "id": 82,
+      "state": "North West",
+      "shortname": "Salf"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/57.jpg",
+      "name": "University of Central Lancashire",
+      "id": 57,
+      "state": "North West",
+      "shortname": "UCLan"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/65.jpg",
+      "name": "Queen's University Belfast",
+      "id": 65,
+      "state": "Northern Ireland",
+      "shortname": "QUB"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/59.jpg",
+      "name": "Ulster University",
+      "id": 59,
+      "state": "Northern Ireland",
+      "shortname": "Ulster"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/163.jpg",
+      "name": "Abertay University Dundee",
+      "id": 163,
+      "state": "Scotland",
+      "shortname": "Aber Dund"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/122.jpg",
+      "name": "University of Aberdeen",
+      "id": 122,
+      "state": "Scotland",
+      "shortname": "Aberd"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/120.jpg",
+      "name": "University of Dundee",
+      "id": 120,
+      "state": "Scotland",
+      "shortname": "Dundee"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/55.jpg",
+      "name": "University of Edinburgh",
+      "id": 55,
+      "state": "Scotland",
+      "shortname": "Edinburgh"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/93.jpg",
+      "name": "Glasgow Caledonian University",
+      "id": 93,
+      "state": "Scotland",
+      "shortname": "Glas Cal"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/63.jpg",
+      "name": "University of Glasgow",
+      "id": 63,
+      "state": "Scotland",
+      "shortname": "Glasgow"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/143.jpg",
+      "name": "Heriot-Watt University",
+      "id": 143,
+      "state": "Scotland",
+      "shortname": "Heriot-Watt"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/117.jpg",
+      "name": "Edinburgh Napier University",
+      "id": 117,
+      "state": "Scotland",
+      "shortname": "Napier"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/164.jpg",
+      "name": "Queen Margaret University",
+      "id": 164,
+      "state": "Scotland",
+      "shortname": "Qu Marg"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/130.jpg",
+      "name": "Robert Gordon University",
+      "id": 130,
+      "state": "Scotland",
+      "shortname": "Robt Gor"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/137.jpg",
+      "name": "The University of St Andrews",
+      "id": 137,
+      "state": "Scotland",
+      "shortname": "St And"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/132.jpg",
+      "name": "University of Stirling",
+      "id": 132,
+      "state": "Scotland",
+      "shortname": "Stirling"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/86.jpg",
+      "name": "University of Strathclyde",
+      "id": 86,
+      "state": "Scotland",
+      "shortname": "Strath"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/138.jpg",
+      "name": "University of the Highlands and Islands",
+      "id": 138,
+      "state": "Scotland",
+      "shortname": "UHI"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/96.jpg",
+      "name": "University of the West of Scotland",
+      "id": 96,
+      "state": "Scotland",
+      "shortname": "West Scot"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/a50e47e9-a159-4f66-8ec1-c0857dfc23f7.png",
+      "name": "University of Brighton",
+      "id": 74,
+      "state": "South East",
+      "shortname": "BSU"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/217.jpg",
+      "name": "Buckingham University",
+      "id": 217,
+      "state": "South East",
+      "shortname": "Buckingham Uni"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/141.jpg",
+      "name": "Buckinghamshire New University",
+      "id": 141,
+      "state": "South East",
+      "shortname": "Bucks New"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/156.jpg",
+      "name": "University of Chichester",
+      "id": 156,
+      "state": "South East",
+      "shortname": "Chichester"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/99.jpg",
+      "name": "Christ Church University",
+      "id": 99,
+      "state": "South East",
+      "shortname": "Christ Church"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/111.jpg",
+      "name": "University of Demo UK",
+      "id": 113,
+      "state": "South East",
+      "shortname": "Demo UK"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/83.jpg",
+      "name": "University of Kent",
+      "id": 83,
+      "state": "South East",
+      "shortname": "Kent"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "The Open University",
+      "id": 295,
+      "state": "South East",
+      "shortname": "Open"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/92.jpg",
+      "name": "Oxford Brookes University",
+      "id": 92,
+      "state": "South East",
+      "shortname": "Oxf Brookes"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/89.jpg",
+      "name": "University of Oxford",
+      "id": 89,
+      "state": "South East",
+      "shortname": "Oxford"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/66.jpg",
+      "name": "University of Portsmouth",
+      "id": 66,
+      "state": "South East",
+      "shortname": "Port"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/118.jpg",
+      "name": "University of Reading",
+      "id": 118,
+      "state": "South East",
+      "shortname": "Reading"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/71.jpg",
+      "name": "University of Southampton",
+      "id": 71,
+      "state": "South East",
+      "shortname": "S'ton"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/112.jpg",
+      "name": "Solent University",
+      "id": 112,
+      "state": "South East",
+      "shortname": "Solent"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/109.jpg",
+      "name": "University of Surrey",
+      "id": 109,
+      "state": "South East",
+      "shortname": "Surrey"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/111.jpg",
+      "name": "University of Sussex",
+      "id": 111,
+      "state": "South East",
+      "shortname": "Sussex"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/159.jpg",
+      "name": "University for the Creative Arts",
+      "id": 159,
+      "state": "South East",
+      "shortname": "UCA"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "The University of Law",
+      "id": 299,
+      "state": "South East",
+      "shortname": "ULaw"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/147.jpg",
+      "name": "University of Winchester",
+      "id": 147,
+      "state": "South East",
+      "shortname": "Winc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/166.jpg",
+      "name": "Arts University Bournemouth",
+      "id": 166,
+      "state": "South West",
+      "shortname": "AUB"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/104.jpg",
+      "name": "University of Bath",
+      "id": 104,
+      "state": "South West",
+      "shortname": "Bath"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/149.jpg",
+      "name": "Bath Spa University",
+      "id": 149,
+      "state": "South West",
+      "shortname": "Bath Spa"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/85.jpg",
+      "name": "Bournemouth University",
+      "id": 85,
+      "state": "South West",
+      "shortname": "Bourne"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/77.jpg",
+      "name": "University of Bristol",
+      "id": 77,
+      "state": "South West",
+      "shortname": "Bristol"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/72.jpg",
+      "name": "University of Exeter",
+      "id": 72,
+      "state": "South West",
+      "shortname": "Exeter"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/160.jpg",
+      "name": "Falmouth University",
+      "id": 160,
+      "state": "South West",
+      "shortname": "Fal"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/146.jpg",
+      "name": "University of Gloucestershire",
+      "id": 146,
+      "state": "South West",
+      "shortname": "Glouc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/173.jpg",
+      "name": "Hartpury University",
+      "id": 173,
+      "state": "South West",
+      "shortname": "Hartpury"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/170.jpg",
+      "name": "Plymouth Marjon University",
+      "id": 170,
+      "state": "South West",
+      "shortname": "Marjon"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/58.jpg",
+      "name": "University of Plymouth",
+      "id": 58,
+      "state": "South West",
+      "shortname": "Plym"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Royal Agricultural University",
+      "id": 298,
+      "state": "South West",
+      "shortname": "RAU"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/54.jpg",
+      "name": "University of the West of England",
+      "id": 54,
+      "state": "South West",
+      "shortname": "West Eng"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/140.jpg",
+      "name": "Aberystwyth University",
+      "id": 140,
+      "state": "Wales",
+      "shortname": "Aberystwyth"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/135.jpg",
+      "name": "Bangor University",
+      "id": 135,
+      "state": "Wales",
+      "shortname": "Bangor"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/51.jpg",
+      "name": "Cardiff University",
+      "id": 51,
+      "state": "Wales",
+      "shortname": "Card"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/128.jpg",
+      "name": "Cardiff Metropolitan University",
+      "id": 128,
+      "state": "Wales",
+      "shortname": "Cardiff Met"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/56.jpg",
+      "name": "University of South Wales",
+      "id": 56,
+      "state": "Wales",
+      "shortname": "South Wales"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/90.jpg",
+      "name": "Swansea University",
+      "id": 90,
+      "state": "Wales",
+      "shortname": "Swansea"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/133.jpg",
+      "name": "University of Wales",
+      "id": 133,
+      "state": "Wales",
+      "shortname": "Wales"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/148.jpg",
+      "name": "Wrexham Glyndŵr University",
+      "id": 148,
+      "state": "Wales",
+      "shortname": "Wrexham Glyndŵr"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Arden University",
+      "id": 301,
+      "state": "West Midlands",
+      "shortname": "Arden"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/121.jpg",
+      "name": "Aston University",
+      "id": 121,
+      "state": "West Midlands",
+      "shortname": "Aston"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/60.jpg",
+      "name": "Birmingham City University",
+      "id": 60,
+      "state": "West Midlands",
+      "shortname": "Birm City"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/48.jpg",
+      "name": "Coventry University",
+      "id": 48,
+      "state": "West Midlands",
+      "shortname": "Cov"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/154.jpg",
+      "name": "Harper Adams University",
+      "id": 154,
+      "state": "West Midlands",
+      "shortname": "Harper Adams"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/139.jpg",
+      "name": "Keele University",
+      "id": 139,
+      "state": "West Midlands",
+      "shortname": "Keele"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/168.jpg",
+      "name": "Newman University",
+      "id": 168,
+      "state": "West Midlands",
+      "shortname": "Newman"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/94.jpg",
+      "name": "Staffordshire University",
+      "id": 94,
+      "state": "West Midlands",
+      "shortname": "Staffs"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/158.jpg",
+      "name": "University College Birmingham",
+      "id": 158,
+      "state": "West Midlands",
+      "shortname": "UCB"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/52.jpg",
+      "name": "University of Birmingham",
+      "id": 52,
+      "state": "West Midlands",
+      "shortname": "University of Birmingham"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/84.jpg",
+      "name": "University of Warwick",
+      "id": 84,
+      "state": "West Midlands",
+      "shortname": "Warwick"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/76.jpg",
+      "name": "University of Wolverhampton",
+      "id": 76,
+      "state": "West Midlands",
+      "shortname": "Wolv"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/131.jpg",
+      "name": "University of Worcester",
+      "id": 131,
+      "state": "West Midlands",
+      "shortname": "Worc"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/134.jpg",
+      "name": "University of Bradford",
+      "id": 134,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Bradford"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/87.jpg",
+      "name": "University of Huddersfield",
+      "id": 87,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Hudd"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/95.jpg",
+      "name": "University of Hull",
+      "id": 95,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Hull"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/47.jpg",
+      "name": "University of Leeds",
+      "id": 47,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Leeds"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://campus.hellorubric.com/assets/images/society_default_img.jpg",
+      "name": "Leeds Arts University",
+      "id": 296,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Leeds Arts"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/53.jpg",
+      "name": "Leeds Beckett University",
+      "id": 53,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Leeds Beckett"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/167.jpg",
+      "name": "Leeds Trinity University",
+      "id": 167,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Leeds Trinity"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/62.jpg",
+      "name": "University of Sheffield",
+      "id": 62,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Sheff"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/45.jpg",
+      "name": "Sheffield Hallam University",
+      "id": 45,
+      "state": "Yorkshire and Humberside",
+      "shortname": "Sheff Hallam"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/100.jpg",
+      "name": "University of York",
+      "id": 100,
+      "state": "Yorkshire and Humberside",
+      "shortname": "York"
+    },
+    {
+      "country": "GB",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/151.jpg",
+      "name": "York St John University",
+      "id": 151,
+      "state": "Yorkshire and Humberside",
+      "shortname": "York St John"
+    },
+    {
+      "country": "IE",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/35983935-0c87-4223-b12c-12ecb397e994.png",
+      "name": "Dublin City University",
+      "id": 541,
+      "state": "Leinster",
+      "shortname": "DCU"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/176.jpg",
+      "name": "University of Auckland",
+      "id": 176,
+      "state": "Auckland",
+      "shortname": "Auckland Uni"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/183.jpg",
+      "name": "Auckland University of Technology",
+      "id": 183,
+      "state": "Auckland",
+      "shortname": "AUT"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/178.jpg",
+      "name": "University of Canterbury",
+      "id": 178,
+      "state": "Canterbury",
+      "shortname": "Canterbury"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/5e13854e-d7cb-434b-b1c0-9056f073196a.jpg",
+      "name": "Lincoln University",
+      "id": 182,
+      "state": "Canterbury",
+      "shortname": "Lincoln Uni"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/180.jpg",
+      "name": "Massey University",
+      "id": 180,
+      "state": "Manawatu-Whanganui",
+      "shortname": "Massey Uni"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/177.jpg",
+      "name": "University of Otago",
+      "id": 177,
+      "state": "Otago",
+      "shortname": "OTAGO"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/181.jpg",
+      "name": "University of Waikato",
+      "id": 181,
+      "state": "Waikato",
+      "shortname": "Waikato"
+    },
+    {
+      "country": "NZ",
+      "logo_url": "https://resources.getqpay.com/images/university_logos/179.jpg",
+      "name": "Victoria University of Wellington",
+      "id": 179,
+      "state": "Wellington",
+      "shortname": "VUW"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "Academy of Art University",
+      "id": 533,
+      "state": "California",
+      "shortname": "ART U"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "University of Hawaii at Manoa",
+      "id": 534,
+      "state": "Hawaii",
+      "shortname": "UH"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "DeVry University",
+      "id": 531,
+      "state": "Illinois",
+      "shortname": "DeVry"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "University of Maryland",
+      "id": 527,
+      "state": "Maryland",
+      "shortname": "UMD"
+    },
+    {
+      "country": "US",
+      "logo_url": "https://portal.getqpay.com/assets/revolvapp/uploaded/fcbb69d2664bc5bf2d1f9a03d9e4b6ce.png",
+      "name": "University of Minnesota Twin Cities",
+      "id": 538,
+      "state": "Minneapolis",
+      "shortname": "Twin Cities"
+    },
+    {
+      "country": "US",
+      "logo_url": "https://resources.hellorubric.com/uploaded_assets/d628b933-77ce-4299-85b4-d31ddf9d80bb.png",
+      "name": "University of Michigan",
+      "id": 543,
+      "state": "New Hampshire",
+      "shortname": "MICH"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "Southern New Hampshire University",
+      "id": 525,
+      "state": "New Hampshire",
+      "shortname": "SNHU"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "New Mexico State University",
+      "id": 530,
+      "state": "New Mexico",
+      "shortname": "NMSU"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "Dallas College",
+      "id": 526,
+      "state": "Texas",
+      "shortname": "Dallas College"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "University of Texas at Austin",
+      "id": 528,
+      "state": "Texas",
+      "shortname": "UT Austin"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "Old Dominion University",
+      "id": 529,
+      "state": "Virginia",
+      "shortname": "ODU"
+    },
+    {
+      "country": "US",
+      "logo_url": "",
+      "name": "Marquette University",
+      "id": 532,
+      "state": "Wisconsin",
+      "shortname": "Marquette"
+    }
+  ],
+  "sortType": "date",
+  "selectedCountryCode": "AU",
+  "success": true,
+  "results": [
+    {
+      "sortindex": 1775527200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/05e79ec0-37f7-4e48-999e-f491bae5dae6.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2225,
+      "destination": "/?eid=58193",
+      "societyname": "UQ Film Appreciation Society",
+      "societylogo": "https://resources.getqpay.com/images/65b759de92fc1_.png",
+      "title": "UQFAS Presents MID-SEM MARATHON",
+      "day": "7",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1775613600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/9d8fc8f8-a968-482e-b03a-b18213abd687.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3858,
+      "destination": "/?eid=59801",
+      "societyname": "UQ English and Literature Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/c6adf46e-ec6e-4f83-a196-886bedde40de.png",
+      "title": "Pancake Manor and Archives Fine Books Visit",
+      "day": "8",
+      "info": "$6.08"
+    },
+    {
+      "sortindex": 1775629800,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_7.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 4787,
+      "destination": "/?eid=60054",
+      "societyname": "UQ Cyber Squad",
+      "societylogo": "https://resources.getqpay.com/images/65a3651e473ec_.png",
+      "title": "Netherworld Midsem Meetup with Cyber Squad ",
+      "day": "8",
+      "info": "$15.00"
+    },
+    {
+      "sortindex": 1775685600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b2e04485-0b9c-4cd8-9797-ebed0c56594b.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 186,
+      "destination": "/?eid=59554",
+      "societyname": "UQ Marketing & Advertising Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/5095f6de-adb3-4241-bd9c-8a216163d447.png",
+      "title": "UQMAS Sem 1 Firm Hop",
+      "day": "9",
+      "info": "$11.27 - $21.63"
+    },
+    {
+      "sortindex": 1775694600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/9434a995-7467-416b-899e-9157ec5a93ab.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 8835,
+      "destination": "/?eid=54613",
+      "societyname": "UQCCR Student Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+      "title": "Easter potluck and scavengar hunt",
+      "day": "9",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1775716200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/34e7281b-6f59-492a-a5c7-76efee29a974.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4520,
+      "destination": "/?eid=57577",
+      "societyname": "UQ Radiology Interest Group",
+      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+      "title": "Intro to Chest X-Rays",
+      "day": "9",
+      "info": "$0.00 - $6.00"
+    },
+    {
+      "sortindex": 1775718000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/ea4f9637-fb2c-48f0-8d2f-ec02b870bec4.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 2428,
+      "destination": "/?eid=59153",
+      "societyname": "UQ South Pacific Islander Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2428.png",
+      "title": "Karaoke Night ",
+      "day": "9",
+      "info": "$12.00"
+    },
+    {
+      "sortindex": 1775718000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b1a3f9ad-61e7-4856-bcc9-e958e7053f35.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 10456,
+      "destination": "/?eid=58291",
+      "societyname": "UQ Medical Humanities Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/36b91932-8681-4568-89e1-e799b8b99dca.png",
+      "title": "April Book Club",
+      "day": "9",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1775718000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d6171ac7-1c01-4d2f-80b7-ba5e24b00e9b.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 649,
+      "destination": "/?eid=59259",
+      "societyname": "Society of Fine Arts",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_649.png",
+      "title": "Live Lines: Life Drawing Workshop",
+      "day": "9",
+      "info": "$21.63 - $37.18"
+    },
+    {
+      "sortindex": 1775808000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/04eaeaaa-c5fd-4772-9a00-720abf36d8b5.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 7597,
+      "destination": "/?eid=59535",
+      "societyname": "UQ Bakeology",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/0de8f247-7455-4394-9c66-a15b4a67a516.png",
+      "title": "Dress to Impress: UQ Bakeology Costume Party",
+      "day": "10",
+      "info": "$21.63 - $42.36"
+    },
+    {
+      "sortindex": 1775858400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a8d331bb-a211-4449-a182-1466d5acafff.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 2538,
+      "destination": "/?eid=57541",
+      "societyname": "UQ Opera Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/80dec386-d36c-4f66-84cb-8800c628b942.png",
+      "title": "UQ Opera Society Headshots 2026",
+      "day": "11",
+      "info": "$150.00 - $160.00"
+    },
+    {
+      "sortindex": 1775876400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/620891c9-d9a2-4171-9065-7e0edb7e27ab.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 3180,
+      "destination": "/?eid=58269",
+      "societyname": "UQ Korean Medical Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_3180.png",
+      "title": "UQKMS GUKMS MT 2026",
+      "day": "11",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1775955600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/2456f16f-4209-4e49-9945-b44771af8ee1.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 1345,
+      "destination": "/?eid=59538",
+      "societyname": "Underground Theatre Company",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/a23d1357-6f71-46f6-93c2-8010f99aacb2.png",
+      "title": "UTC Tech Bootcamp - An Intro to Tech",
+      "day": "12",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1776121200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/e882589a-6fef-4049-9616-e13425b339b4.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 377,
+      "destination": "/?eid=59332",
+      "societyname": "UQ Tourism, Hospitality & Events Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/e81f6283-70dd-4a13-a764-87c50d0dcb3e.png",
+      "title": "Beetson Hotel Tour",
+      "day": "14",
+      "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1776146400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/0eded3b1-89c8-48f5-a9f5-65a9d02c04d3.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 1835,
+      "destination": "/?eid=57367",
+      "societyname": "Public Health Association University of Queensland",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
+      "title": "Cheeky Public Speaky",
+      "day": "14",
+      "info": "$0.00 - $11.27"
+    },
+    {
+      "sortindex": 1776148200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7b761d00-0a5f-4d19-b402-542ca759fdc0.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6994,
+      "destination": "/?eid=59796",
+      "societyname": "Financial Management Association of Australia",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+      "title": "FMAA Fundamentals ",
+      "day": "14",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1776148200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/c2f97969-68b9-42f0-a34a-4965ecf1523d.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 339,
+      "destination": "/?eid=55918",
+      "societyname": "UQ HMNS Student Society",
+      "societylogo": "https://resources.getqpay.com/images/64586f6e7688b_.png",
+      "title": "HMNS Networking Night Semester 1",
+      "day": "14",
+      "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1776238200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/56e41ed1-2357-482f-93dc-c21b3a12e6c5.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 2332,
+      "destination": "/?eid=59970",
+      "societyname": "University Network for Investing and Trading (UQ)",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+      "title": "UNIT CV and Cover Letter Workshop",
+      "day": "15",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1776324600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/7ad8935e-9964-4ede-b4a9-9bcef9b9c7a0.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 2274,
+      "destination": "/?eid=55253",
+      "societyname": "BRUCE Architecture Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/cbfc51b6-caed-40ff-b4ff-a1883f0ec2f5.png",
+      "title": "Photography Competition Closing Ceremony",
+      "day": "16",
+      "info": "$16.45 - $32.00"
+    },
+    {
+      "sortindex": 1776402000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/47160c01-c43e-4433-8b9e-fad3d867f9cc.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 7257,
+      "destination": "/?eid=59978",
+      "societyname": "Society of Lifesaving",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/4f0054de-d61d-49ab-a8ff-9234916eeb07.png",
+      "title": "Fingal Rovers Patrol Trip",
+      "day": "17",
+      "info": "$26.81"
+    },
+    {
+      "sortindex": 1776411000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/abddb4cf-5538-40bb-8a34-36879c4a54c2.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 4520,
+      "destination": "/?eid=58203",
+      "societyname": "UQ Radiology Interest Group",
+      "societylogo": "https://resources.getqpay.com/images/642f6169b14a3_.png",
+      "title": "UQRIG Social Networking Night",
+      "day": "17",
+      "info": "$15.00 - $20.00"
+    },
+    {
+      "sortindex": 1776477600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/faa514f0-2b30-4651-a3d3-8139c20b40a8.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 1835,
+      "destination": "/?eid=50431",
+      "societyname": "Public Health Association University of Queensland",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1835.png",
+      "title": "Queensland Art Gallery Sketching Trail ",
+      "day": "18",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1776556800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/c0b4a3c1-44fb-4f9f-ae78-9ce06b9e3896.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1387,
+      "destination": "/?eid=59706",
+      "societyname": "UQ Hong Kong Students Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_1387.png",
+      "title": "Mahjong Tournament",
+      "day": "19",
+      "info": "$16.45 - $21.63"
+    },
+    {
+      "sortindex": 1776567600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/bda26358-9fca-4507-ad7a-77811ab7f243.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 3225,
+      "destination": "/?eid=58689",
+      "societyname": "UQ Gatton Student Association",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/6e0bb2fc-21d0-4a83-9378-1de6d4e62c82.png",
+      "title": "Cricket Day",
+      "day": "19",
+      "info": "$11.27 - $21.63"
+    },
+    {
+      "sortindex": 1776667500,
+      "image": "https://resources.hellorubric.com/uploaded_assets/b0942b4e-5303-4803-b9ed-37518b324653.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 57,
+      "destination": "/?eid=59537",
+      "societyname": "University of Queensland Law Society Incorporated",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "Diversity in Law Evening",
+      "day": "20",
+      "info": "$20.95 - $41.35"
+    },
+    {
+      "sortindex": 1776668400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_14.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Class/Workshop",
+      "societyid": 7437,
+      "destination": "/?eid=59089",
+      "societyname": "UQ Internal Medicine Society",
+      "societylogo": "https://resources.getqpay.com/images/669523f8ead48_.png",
+      "title": "Clinical Pearls in Sleep & Respiratory Medicine",
+      "day": "20",
+      "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1776839400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_10.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6994,
+      "destination": "/?eid=59031",
+      "societyname": "Financial Management Association of Australia",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+      "title": "Women in Business Evening",
+      "day": "22",
+      "info": "Free"
+    },
+    {
+      "sortindex": 1776841200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/0591fe95-2c26-4f96-92a3-37c5664ca6bf.jpeg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 547,
+      "destination": "/?eid=60076",
+      "societyname": "UQ Geography and Environmental Management Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_547.png",
+      "title": "Employability Skills Night with UQGEMS and UQOOPS",
+      "day": "22",
+      "info": "$0.00 - $6.08"
+    },
+    {
+      "sortindex": 1776924000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/4c73bf96-edae-4d72-9ded-4850df1ec4a0.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 5398,
+      "destination": "/?eid=53749",
+      "societyname": "UQ Sustainable Innovators Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/d81f0f74-5831-47b2-8089-3941e400cf31.png",
+      "title": "Write for Change: Writers Workshop to your MP",
+      "day": "23",
+      "info": "$0.00 - $10.00"
+    },
+    {
+      "sortindex": 1777013100,
+      "image": "https://resources.hellorubric.com/uploaded_assets/f3c8113c-7003-4e2b-97e3-bc3004982902.jpg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 1857,
+      "destination": "/?eid=55702",
+      "societyname": "UQ Psychology Students Association",
+      "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
+      "title": "UQPSA Research Night 2026",
+      "day": "24",
+      "info": "$0.00 - $10.00"
+    },
+    {
+      "sortindex": 1777073400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a630d696-3cb4-42a5-bb84-49f963178db4.jpeg",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Trip/Camp",
+      "societyid": 11229,
+      "destination": "/?eid=58991",
+      "societyname": "UQ Animal Welfare and Ethics SIG",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/322ea522-55f3-45cd-9d5c-7f84af461119.png",
+      "title": "Farm Animal Rescue Sanctuary Visit",
+      "day": "25",
+      "info": "$15.00 - $25.00"
+    },
+    {
+      "sortindex": 1777359600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/cdfb57d8-20d1-488b-9cb2-93f8fa64e75c.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 165,
+      "destination": "/?eid=60107",
+      "societyname": "UQBA - UQ Business Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_165.png",
+      "title": "Consulting Panel",
+      "day": "28",
+      "info": "$0.00 - $10.75"
+    },
+    {
+      "sortindex": 1777446000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/663d01ed-0dda-4048-a495-91381b4fa206.png",
+      "month": "April",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 4465,
+      "destination": "/?eid=57191",
+      "societyname": "UQ Political Science and International Relations Society",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_4465.png",
+      "title": "UQPSIR's Women in Government Panel",
+      "day": "29",
+      "info": "$18.51 - $25.77"
+    },
+    {
+      "sortindex": 1777683600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a4771d02-60bf-4f0e-97db-8dab306a7170.jpeg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Quiz/Trivia",
+      "societyid": 2235,
+      "destination": "/?eid=59793",
+      "societyname": "UQ Photography Society",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/17c2fac1-6c15-4a88-bbc1-291ec5b8c294.png",
+      "title": "UQPS x UQWA: Bird Photography Tutorial and Walk",
+      "day": "2",
+      "info": "$6.08"
+    },
+    {
+      "sortindex": 1777773600,
+      "image": "https://resources.hellorubric.com/uploaded_assets/6e8661ad-056b-4292-879c-1a8272a1c2c4.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 1857,
+      "destination": "/?eid=55932",
+      "societyname": "UQ Psychology Students Association",
+      "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
+      "title": "Scrub Crawl 2026",
+      "day": "3",
+      "info": "$48.50 - $63.80"
+    },
+    {
+      "sortindex": 1778036400,
+      "image": "https://resources.hellorubric.com/uploaded_assets/0c7898f8-9a2c-4796-b7b7-12df4efb6d94.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Party/BBQ/Social",
+      "societyid": 8835,
+      "destination": "/?eid=52865",
+      "societyname": "UQCCR Student Club",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/f98acf62-a093-4f6a-86d5-5705f926f786.png",
+      "title": "UQCCR Student Club Lawn Bowls",
+      "day": "6",
+      "info": "$20.01 - $25.01"
+    },
+    {
+      "sortindex": 1778310000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d6b7954a-72e4-49e1-b94f-ff4e05ce884c.jpeg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 57,
+      "destination": "/?eid=58996",
+      "societyname": "University of Queensland Law Society Incorporated",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "UQLS Law Ball 2026: At Last I See The Light",
+      "day": "9",
+      "info": "$0.00 - $145.00"
+    },
+    {
+      "sortindex": 1778567400,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_16.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Industry/Career",
+      "societyid": 1857,
+      "destination": "/?eid=59361",
+      "societyname": "UQ Psychology Students Association",
+      "societylogo": "https://resources.getqpay.com/images/63da1539b7b87_.png",
+      "title": "Pathways to Postgrad 2026",
+      "day": "12",
+      "info": "$0.00 - $10.75"
+    },
+    {
+      "sortindex": 1778743800,
+      "image": "https://resources.hellorubric.com/uploaded_assets/d4de18d7-8594-4150-856c-b87ef4ace66b.jpg",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 2332,
+      "destination": "/?eid=59804",
+      "societyname": "University Network for Investing and Trading (UQ)",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_2332.png",
+      "title": "UNIT x UQWN Mergers & Acquisitions Evening 2026",
+      "day": "14",
+      "info": "$42.36"
+    },
+    {
+      "sortindex": 1778830200,
+      "image": "https://resources.hellorubric.com/uploaded_assets/a4fa3b05-0411-44a5-ac2a-b08b1f8eb7ad.png",
+      "month": "May",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 6994,
+      "destination": "/?eid=59761",
+      "societyname": "Financial Management Association of Australia",
+      "societylogo": "https://resources.hellorubric.com/uploaded_assets/779d37bb-6f38-462c-ac42-7ccaf6f9f909.png",
+      "title": "FMAA Corporate Cocktails",
+      "day": "15",
+      "info": "$45.00"
+    },
+    {
+      "sortindex": 1784880000,
+      "image": "https://resources.hellorubric.com/uploaded_assets/e7ebd4c3-b5df-44cc-ac5d-372c88af841e.png",
+      "month": "July",
+      "societyAvgRating": 0,
+      "subtitle": "Ball/Dinner/Gala",
+      "societyid": 648,
+      "destination": "/?eid=58338",
+      "societyname": "UQ Sri Lankan Association",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_648.png",
+      "title": "Suits n' Sarees 2026",
+      "day": "24",
+      "info": "$87.26 - $128.06"
+    },
+    {
+      "sortindex": 1790373600,
+      "image": "https://portal.getqpay.com/assets/img/patterns/pattern_12.png",
+      "month": "September",
+      "societyAvgRating": 0,
+      "subtitle": "Other",
+      "societyid": 57,
+      "destination": "/?eid=57503",
+      "societyname": "University of Queensland Law Society Incorporated",
+      "societylogo": "https://portal.getqpay.com/content/logos/logo_societyid_57.png",
+      "title": "2026 Clayton Utz UQ Unjust Enrichment Moot",
+      "day": "26",
+      "info": "$500.00"
+    }
+  ],
+  "selectedState": "Queensland"
+}
